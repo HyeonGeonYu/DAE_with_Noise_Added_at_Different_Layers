@@ -29,14 +29,14 @@ Each index(noise_idx) represents the location where noise is added.
 8 |<img src="result_img/autoencoder_2023_07_28_14_55_46_8_manifold_idx_8.png" width=280px> |     10      | <img src="result_img/autoencoder_2023_07_28_15_05_15_10_manifold_idx_10.png" width=280px> 
 
 # re-generation result
-*noise_idx* |                                        *result*                                        
-:---: |:--------------------------------------------------------------------------------------:
-0 | <img src="result_img/autoencoder_2023_07_28_14_21_05_0_result_idx_0.png" width=280px>  | 
-1 | <img src="result_img/autoencoder_2023_07_28_14_25_12_2_result_idx_2.png" width=280px>  | 
-2 | <img src="result_img/autoencoder_2023_07_28_14_34_13_4_result_idx_4.png" width=280px>  | 
-3 | <img src="result_img/autoencoder_2023_07_28_14_45_04_6_result_idx_6.png" width=280px>  | 
-4 | <img src="result_img/autoencoder_2023_07_28_14_55_46_8_result_idx_8.png" width=280px>  | 
-5 | <img src="result_img/autoencoder_2023_07_28_15_05_15_10_result_idx_10.png" width=280px> | 
+*noise_idx* |                                        *result*                                         
+:---: |:---------------------------------------------------------------------------------------:
+0 |  <img src="result_img/autoencoder_2023_07_28_14_21_05_0_result_idx_0.png" width=512px>  | 
+1 |  <img src="result_img/autoencoder_2023_07_28_14_25_12_2_result_idx_2.png" width=512px>  | 
+2 |  <img src="result_img/autoencoder_2023_07_28_14_34_13_4_result_idx_4.png" width=512px>  | 
+3 |  <img src="result_img/autoencoder_2023_07_28_14_45_04_6_result_idx_6.png" width=512px>  | 
+4 |  <img src="result_img/autoencoder_2023_07_28_14_55_46_8_result_idx_8.png" width=512px>  | 
+5 | <img src="result_img/autoencoder_2023_07_28_15_05_15_10_result_idx_10.png" width=512px> | 
 
 # re-generation with noisy-input result 
 *DNN* |                                    *CNN*                                     | *DAE* 

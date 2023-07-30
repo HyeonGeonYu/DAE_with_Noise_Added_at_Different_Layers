@@ -17,7 +17,7 @@ SNR = 12
 std = (2/10**SNR)**0.5
 
 if __name__ == "__main__":
-    for noise_location_idx in range(0,11):
+    for noise_location_idx in range(11,12):
         SAVE_PATH = "saved_models/autoencoder_" + now.strftime("%Y_%m_%d_%H_%M_%S")+"_"+str(noise_location_idx)
 
         if (not os.path.isdir("data")):
